@@ -130,12 +130,42 @@
             "NEET Biology",
             "Guidance",
             "NEET Exam preparation",
-            "NEET Biology",
             "NEET assertion-reason question"
         ],
         "publishDate": "14.09.2023",
         "category": "NEET",
         "description": "NEET এর বায়োলজি পরীক্ষায় ASSERTION-REASON প্রশ্ন সল্ভ করার সহজ ট্রিক। An unique Trick to solve Assertion-Reason questions quickly in NEET Biology paper.",
+        "author": {
+            "name": "Aditi Pal",
+            "img": "",
+            "about": "Biology Faculty/ Tutoring NEET Aspirants/ Biology Educator/ Guiding Students",
+            "twitter": "",
+            "linkedin": "https://in.linkedin.com/in/aditi-pal-846255136",
+            "youtube": "https://www.youtube.com/@bebiological"
+        }
+    },
+   {
+        "id": "6",
+        "title": "NEET ছাড়াও আর কি কি পরীক্ষা PCB স্টুডেন্টরা দিতে পারবে?",
+        "imgUrl": "",
+        "videoId": "CiMRcJGfUdg",
+        "subTitle": "",
+        "tags": [
+            "Other Exams",
+            "JENPAS-UG",
+            "ICAR-AIEEE",
+            "BITSAT",
+            "bebiological",
+            "ANM-GNM",
+            "Guidance",
+            "Exams for PCB Combination",
+            "Exams other than NEET",
+            "CUET-UG",
+            "PUBDET"
+        ],
+        "publishDate": "21.09.2023",
+        "category": "Other Exams",
+        "description": "NEET ছাড়াও আর কি কি পরীক্ষা PCB সাবজেক্ট কম্বিনেসানের স্টুডেন্টরা দিতে পারবে জেনে নাও। List of exams other than NEET students can give with PCB subject combination",
         "author": {
             "name": "Aditi Pal",
             "img": "",
