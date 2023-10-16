@@ -41,11 +41,41 @@
             "NEET syllabus update",
             "NEET new syllabus",
             "NEET Latest News",
-            "latest News"
+            "latest News",
+            "NEET 2024"
         ],
         "publishDate": "10.10.2023",
         "category": "NEET",
         "description": "NEET পরীক্ষার নতুন সিলেবাস বের করলো NMC ৬ই অক্টোবর। বায়োলজিতে কিছু টপিক নতুন ঢুকলো, পুরনো কিছু টপিক বাদ গেল।",
+        "author": {
+            "name": "Aditi Pal",
+            "img": "",
+            "about": "Biology Faculty/ Tutoring NEET Aspirants/ Biology Educator/ Guiding Students",
+            "twitter": "",
+            "linkedin": "https://in.linkedin.com/in/aditi-pal-846255136",
+            "youtube": "https://www.youtube.com/@bebiological"
+        }
+    },
+  {
+        "id": "3",
+        "title": "NEET এ 700+ নম্বর পেতে সব সাবজেক্টের নোটস বানাবে আর পড়বে কিভাবে?",
+        "imgUrl": "",
+        "videoId": "szsonAvpUBE",
+        "subTitle": "",
+        "tags": [
+            "Target NEET 2024",
+            "নিট",
+            "NEET Guidance",
+            "Crack NEET",
+            "bebiological",
+            "NEET Notes",
+            "Guidance",
+            "NEET Exam preparation",
+            "NEET 700"
+        ],
+        "publishDate": "12.10.2023",
+        "category": "NEET",
+        "description": "NEET এ 700+ নম্বর পেতে সব সাবজেক্টের নোটস বানাবে আর পড়বে কিভাবে? How to take notes in Physics, Chemistry and Biology to get 700+ score in NEET",
         "author": {
             "name": "Aditi Pal",
             "img": "",
