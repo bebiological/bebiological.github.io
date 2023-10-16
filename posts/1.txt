@@ -1,15 +1,20 @@
-<p>রেজাল্ট  aliqua umt enimd mini venia quis ulamco aliquip commodo cons equat duis aute irue derit lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua sed ullamco laboris. Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-<p>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt.</p>
-<h3>Aorem Ipsum Dolor Emet Hipisicing Elit Usmod</h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architec beatae vitae dicta sunt explicabo.</p>
-<div class="uk-grid uk-grid-medium uk-child-width-1-2@s uk-margin-medium" data-uk-grid data-uk-lightbox>
-<div><a href="assets/img/img-article-gallery-1.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-1.jpg" alt="gallery"></a></div>
-<div><a href="assets/img/img-article-gallery-2.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-2.jpg" alt="gallery"></a></div>
-</div>
-<h3>The Magic Of World’s Best Places</h3>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia conseq untur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</p>
-<blockquote>
-<p>It was indeed very good and fantastic to dine here and stay. The atmosphere was electrifying. Prices were also very reasonable, service was awesome!</p>
-<div class="user"> <strong>Donald H. James</strong><span>Car Owner Repair</span></div>
-</blockquote>
-<p>Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+<p>একজন ড্রপার হিসাবে তোমার প্রথমে একটি কোর্সে যোগদান করা উচিত। যদি আত্মনিয়ন্ত্রণ থাকে তবে অনলাইন তোমার জন্য ভাল। তোমার যদি আত্মনিয়ন্ত্রণ না থাকে এবং একটি ভাল অফলাইন ইনস্টিটিউট কাছাকাছি থাকে, সামর্থ্য থাকলে তোমার এটির জন্য যাওয়া উচিত। শিক্ষকদের কাছ থেকে ধারণাগুলি শোনাও খুব সহায়ক কারণ এটি তোমার স্মৃতিতে আরও বেশি সময় ধরে থাকবে। আরেকটি গুরুত্বপূর্ণ বিষয় হল খুব বেশি কোর্সে একসাথে জয়েন করবে না। যতটা তুমি পরিচালনা করতে পারবে ততগুলিতেই যোগদান করো।</p>
+
+<p>আমি ড্রপারদের দ্বারা করা সাধারণ ভুল সম্পর্কে এই লেখার মাধ্যমে কয়েকটি পয়েন্ট তালিকাভুক্ত করার চেষ্টা করব। প্রথমেই এগুলোর মধ্যে থেকে তোমার ত্রুটিগুলো চিহ্নিত করে সেগুলো মেনে নিয়ে তারপর সেগুলো বন্ধ করার চেষ্টা করো। তবেই পরবর্তী পরীক্ষায় তুমি ভালো ফল করতে পারবে।</p>
+
+<p>
+১। অতীত নিয়ে খুব বেশি ভেবনা<br/>
+২। ন্যুনতম লক্ষ্য স্থির করোনা<br/>
+৩। শুধু থিওরিতে জোড় দিওনা<br/>
+৪। নিজের নোটস বানাও<br/>
+৫। যেই সাবজেক্টটায় কম নম্বর পেয়েছো শুধু সেটা নিয়ে পরে থেকনা<br/>
+৬। লং-টার্ম গোল স্থির করো<br/>
+৭। তারপর সেটাকে সর্ট-টার্ম গোলে ভেঙ্গে নাও<br/>
+৮। রেগুলার মক-টেস্ট দাও<br/>
+৯। কিছু কিছু টপিক যন্ত্রবৎ স্মরণ করতে হয়, সেগুলি ফেলে রেখোনা<br/>
+১০। নিজের ত্রুটি বিশ্লেষণ করো<br/>
+১১। খুব কঠিন প্রশ্নে বেশি ফোকাস করে সময় নষ্ট করোনা<br/>
+১২। পরীক্ষায় গতির থেকে নির্ভুলতার উপর বেশি জোড় দাও<br/>
+</p>
+
+<p>কৌশলের সাথে সংকল্প গুরুত্বপূর্ণ, এই ভুলগুলি এড়িয়ে চলো এবং ভাল শিক্ষকের সংস্পর্শে থাকো। ড্রপ ইয়ার অনেক স্ট্রেস এবং উদ্বেগের কারণ হতে পারে, নিজেকে অনুপ্রেরিত করো। পরিবারের জন্যও কিছু সময় রাখতে  ভুলো না, যাতে তুমি কিছুটা রিলাক্স হতে পারো।</p>
