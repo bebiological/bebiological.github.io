@@ -1,16 +1,17 @@
-<p>bebiological aliqua umt enimd mini venia quis ulamco aliquip commodo cons equat duis aute irue derit lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua sed ullamco laboris. Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-<p>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt.</p>
-<h3>Aorem Ipsum Dolor Emet Hipisicing Elit Usmod</h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architec beatae vitae dicta sunt explicabo.</p>
-<div class="uk-grid uk-grid-medium uk-child-width-1-2@s uk-margin-medium" data-uk-grid data-uk-lightbox>
-<div><a href="assets/img/img-article-gallery-1.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-1.jpg" alt="gallery"></a></div>
-<div><a href="assets/img/img-article-gallery-2.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-2.jpg" alt="gallery"></a></div>
-</div>
-<h3>The Magic Of World’s Best Places</h3>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia conseq untur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</p>
-<blockquote>
-<p>It was indeed very good and fantastic to dine here and stay. The atmosphere was electrifying. Prices were also very reasonable, service was awesome!</p>
-<div class="user"> <strong>Donald H. James</strong><span>Car Owner Repair</span></div>
-</blockquote>
-<p>Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+<p>&nbsp;</p>
+<h2>A List of Exams for PCB Students:</h2>
+<p>Physics, Chemistry, Biology shortly known as PCB is one of the specializations that students opt for in their XI and XII standards. Here begins the journey of the career path; that one chooses and paves way for the apt preparation towards all the entrance examinations. In this article, we list some competitive exams for PCB students.<span id="more-55274"></span></p>
+<p>A student who has opted for PCB may choose to go into medicine or other related careers in physics, chemistry and biology. Alternately they may opt for a totally unrelated career such as the armed forces or fashion technology as well. Several doors are open and it is purely left to the choice of the individual to decide which one to open.</p>
+<p><strong>Let us have a look at all the possible exams for PCB students.</strong></p>
+<p>1. NEET-UG</p>
+<p>2. JENPAS-UG</p>
+<p>3. ICAR-AIEEA</p>
+<p>4. CUET-UG</p>
+<p>5. PUBDET</p>
+<p>6. BITSAT</p>
+<p>7. ANM-GNM</p>
+<p>8. AIIMS B.Sc</p>
+<p>9. NEST</p>
+<p>10. IAT</p>
+<p>In the video I have explained exam patterns and regulations from 2 to 7 from the above list.</p>
+<p>This covers most of the entrance exams that one may choose from based on their area of interest. I am sure there may still be many more given the dynamic nature of our education field and the ever changing government policies. Always be on the alert since learning is a continuous process. Be focused and listen to your heart, because it&rsquo;s always better to do something you love rather than just doing something. As Mark Twain said, &ldquo;Explore, Dream, Discover!&rdquo;</p>
