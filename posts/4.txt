@@ -14,5 +14,5 @@
 <p>10. Characters/Examples/Functions are</p>
 <p>11. correct options are</p>
 <p>12. Name &amp; Year</p>
-<p><a href="&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/bebiological/bebiological.github.io/site-files/documents/NEET UG 2024_Approved_Final.pdf&quot;&gt;Download NEET 2024 Syllabus by NMC&lt;/a&gt;&lt;/p&gt;">Download NEET 2024 Syllabus by NMC</a></p>
-<p><a href="&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/bebiological/bebiological.github.io/site-files/documents/NEET 2023 Biology qus .pdf">Download NEET 2023 Question Paper with Answer by ALLEN</a></p>
+<p><a href="https://raw.githubusercontent.com/bebiological/bebiological.github.io/site-files/documents/NEET UG 2024_Approved_Final.pdf">Download NEET 2024 Syllabus by NMC</a></p>
+<p><a href="https://raw.githubusercontent.com/bebiological/bebiological.github.io/site-files/documents/NEET 2023 Biology qus .pdf">Download NEET 2023 Question Paper with Answer by ALLEN</a></p>
