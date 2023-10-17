@@ -1,16 +1,12 @@
-<p>bebiological aliqua umt enimd mini venia quis ulamco aliquip commodo cons equat duis aute irue derit lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua sed ullamco laboris. Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-<p>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt.</p>
-<h3>Aorem Ipsum Dolor Emet Hipisicing Elit Usmod</h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architec beatae vitae dicta sunt explicabo.</p>
-<div class="uk-grid uk-grid-medium uk-child-width-1-2@s uk-margin-medium" data-uk-grid data-uk-lightbox>
-<div><a href="assets/img/img-article-gallery-1.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-1.jpg" alt="gallery"></a></div>
-<div><a href="assets/img/img-article-gallery-2.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-2.jpg" alt="gallery"></a></div>
-</div>
-<h3>The Magic Of World’s Best Places</h3>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia conseq untur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</p>
-<blockquote>
-<p>It was indeed very good and fantastic to dine here and stay. The atmosphere was electrifying. Prices were also very reasonable, service was awesome!</p>
-<div class="user"> <strong>Donald H. James</strong><span>Car Owner Repair</span></div>
-</blockquote>
-<p>Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+<h2>CLASS- XI</h2>
+<p><span style="text-decoration: underline;"><strong>BIOLOGY</strong></span></p>
+<p><strong>UNIT-I:</strong> Diversity in Living World</p>
+<p><a href="https://www.youtube.com/watch?v=txarRkddr9M&amp;list=PLR2e0ceuIMtOzLY1lBxSLGHPmgtseqKFD">Watch lectures on Class- XI; Unit-I</a></p>
+<p><strong>UNIT-II: </strong>Structural Organisation in Animals and Plants</p>
+<p><a href="https://www.youtube.com/watch?v=L333TZY9GS0&amp;list=PLR2e0ceuIMtOnHFWqez584SKELOrB3FuP">Watch lectures on Class- XI; Unit-II</a></p>
+<p><strong>UNIT-III:&nbsp;</strong>Cell Structure and Function</p>
+<p><a href="https://www.youtube.com/watch?v=Wi5QrBrTI24&amp;list=PLR2e0ceuIMtONZhRI-Q_3ocK8jqt2tzPB">Watch lectures on Class- XI; Unit-III</a></p>
+<p><strong>UNIT-IV:&nbsp;</strong>Plant Physiology</p>
+<p><a href="https://www.youtube.com/watch?v=GQ3iOys3LxY&amp;list=PLR2e0ceuIMtOt1UEAmq2xIqjjTfTIBR66">Watch lectures on Class- XI; Unit-IV</a></p>
+<p><strong>UNIT-V: </strong>Human Physiology</p>
+<p><a href="https://www.youtube.com/watch?v=iMwwf8Ag0yY&amp;list=PLR2e0ceuIMtOIsEUxklKzJ_lbV4RGptOm">Watch lectures on Class- XI; Unit-V</a></p>
