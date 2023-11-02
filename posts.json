@@ -179,6 +179,7 @@
         "id": "7",
         "title": "Class 11 Biology Lectures",
         "imgUrl": "https://github.com/bebiological/bebiological.github.io/blob/site-files/images/Class-%20XI.PNG?raw=true",
+        "videoId": "",
         "subTitle": "",
         "tags": [
             "Biology",
@@ -202,6 +203,7 @@
         "id": "8",
         "title": "Class 12 Biology Lectures",
         "imgUrl": "https://github.com/bebiological/bebiological.github.io/blob/site-files/images/Class-%20XI%20(1).PNG?raw=true",
+        "videoId": "",
         "subTitle": "",
         "tags": [
             "Biology",
@@ -240,6 +242,36 @@
         "publishDate": "19.10.2023",
         "category": "NEET",
         "description": "মাঝারি মানের স্টুডেন্ট হলেও NEET পরীক্ষায় তুমি সফল হতেই পারো। বিশেষ কিছু নিয়ম অনুসরণ করে বুদ্ধিমত্তার সাথে নিজের প্রস্তুতি প্ল্যান করলেই ক্র্যাক করা যায়ে এই পরীক্ষা।",
+        "author": {
+            "name": "Aditi Pal",
+            "img": "",
+            "about": "Biology Faculty/ Tutoring NEET Aspirants/ Biology Educator/ Guiding Students",
+            "twitter": "",
+            "linkedin": "https://in.linkedin.com/in/aditi-pal-846255136",
+            "youtube": "https://www.youtube.com/@bebiological"
+        }
+     },
+   {
+        "id": "10",
+        "title": "স্টুডেন্টরা নিজেদের যত্ন নেবে কিভাবে?",
+        "imgUrl": "",
+        "videoId": "8V7VUIiQD9A",
+        "subTitle": "",
+        "tags": [
+            "NEET",
+            "Guidance",
+            "NEET Preparation",
+            "Crack NEET",
+            "bebiological",
+            "target NEET",
+            "Aditi Maam",
+            "self-care tips",
+            "student care"
+          
+        ],
+        "publishDate": "26.10.2023",
+        "category": "NEET",
+        "description": "মানসিক স্বাস্থ্য তোমাদের পড়াশোনার উপর বিস্তর প্রভাব ফেলতে পারে। প্রধান একাডেমিক মাইলস্টোন গুলির জন্য প্রস্তুত হওয়ার অর্থ কেবল বই পড়া নয়- এর অর্থ হল কীভাবে তোমার লক্ষ্যে পৌঁছানোর জন্য নিজেকে স্বাস্থ্যকর মানসিকতার মধ্যে রাখা যায় তা খুঁজে বের করা৷ তুমি যদি মানসিক ভাবে চাপ বোধ করো, তাহলে নিজের অধ্যয়নের জন্য এই সহজ স্ব-যত্ন টিপস ব্যবহার করে দেখতে পারো।",
         "author": {
             "name": "Aditi Pal",
             "img": "",
