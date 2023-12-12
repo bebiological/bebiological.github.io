@@ -1,16 +1,14 @@
-<p>bebiological aliqua umt enimd mini venia quis ulamco aliquip commodo cons equat duis aute irue derit lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua sed ullamco laboris. Lorem ipsum dolor sit amet cons ectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-<p>Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt.</p>
-<h3>Aorem Ipsum Dolor Emet Hipisicing Elit Usmod</h3>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architec beatae vitae dicta sunt explicabo.</p>
-<div class="uk-grid uk-grid-medium uk-child-width-1-2@s uk-margin-medium" data-uk-grid data-uk-lightbox>
-<div><a href="assets/img/img-article-gallery-1.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-1.jpg" alt="gallery"></a></div>
-<div><a href="assets/img/img-article-gallery-2.jpg"><img class="uk-border-rounded uk-width-1-1" src="assets/img/img-article-gallery-2.jpg" alt="gallery"></a></div>
-</div>
-<h3>The Magic Of World’s Best Places</h3>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia conseq untur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit.</p>
-<blockquote>
-<p>It was indeed very good and fantastic to dine here and stay. The atmosphere was electrifying. Prices were also very reasonable, service was awesome!</p>
-<div class="user"> <strong>Donald H. James</strong><span>Car Owner Repair</span></div>
-</blockquote>
-<p>Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+<p>ভারত থেকে বিদেশে MBBS পড়ার জন্য অনেকগুলি পদক্ষেপ নেওয়া এবং বিশেষ কিছু বিষয়ে বিবেচনা করা প্রয়োজন। নিম্নে কিভাবে বিদেশে MBBS ডিগ্রির জন্য পড়তে পারবেন, তা উল্লেখ করা হয়েছে: </p>
+<p><strong>গবেষণা এবং দেশ ও বিশ্ববিদ্যালয় নির্বাচন করুন:</strong> MBBS প্রোগ্রাম প্রদান করা বিভিন্ন দেশ সন্ধান করুন। ভারতীয় মেডিকেল কাউন্সিল (MCI) এবং বিশ্ব স্বাস্থ্য সংস্থার (WHO) দ্বারা স্বীকৃত বিশ্ববিদ্যালয়ে দেখুন। ভাষা, পাঠ্যক্রম, স্বীকৃতি, অবস্থানের শর্ত, ও খরচ সহ পরিবেশনার কারণগুলি বিবেচনা করুন।</p>
+<p><strong>যোগ্যতা সম্পর্কে অবগত হন:</strong> আপনার পছন্দের বিশ্ববিদ্যালয়ের যোগ্যতা নিরীক্ষণ করুন। সাধারণত, ছাত্রদের প্রয়োজন হয় ক্লাস ১২ পাশ করতে হবে যেখানে ভৌত বিজ্ঞান, রসায়ন, এবং জীববিজ্ঞান প্রধান বিষয় হতে হবে এবং বিশ্ববিদ্যালয়ের নির্ধারিত শিক্ষাগত প্রয়োজনীয়তা পূরণ করতে হবে।</p>
+<p><strong>প্রবেশ পরীক্ষা প্রস্তুতি করুন:</strong> কিছু দেশ/বিশ্ববিদ্যালয়ে ভারতীয় ছাত্রদের জন্য NEET (National Eligibility cum Entrance Test) সমানুপাতিক পরীক্ষা প্রয়োজন হতে পারে। প্রবেশের জন্য এই পরীক্ষাগুলি অনেক গুরুত্বপূর্ণ হতে পারে।</p>
+<p><strong>প্রয়োজনীয় নথি সংগ্রহ করুন:</strong> বিশ্ববিদ্যালয়ের প্রয়োজনীয় নথিগুলি সংগ্রহ করুন, যেমন শিক্ষাগত রেকর্ড, NEET স্কোরকার্ড, পাসপোর্ট, জন্ম সনদ, চরিত্র সনদ ইত্যাদি।</p>
+<p><strong>বিশ্ববিদ্যালয়ে আবেদন করুন:</strong> আপনি যে বিশ্ববিদ্যালয়ে পড়তে আগ্রহী সেখানে আবেদন প্রক্রিয়া সমাপ্ত করুন। আবেদনের শেষ তারিখের মেয়াদ রক্ষা করুন এবং প্রয়োজনীয় নথিগুলি সঠিকভাবে জমা দিন।</p>
+<p><strong>ভর্তি নিশ্চিত করুন:</strong> ভর্তির অফার পেলে, আপনার পছন্দ এবং যোগ্যতা অনুযায়ী বিশ্ববিদ্যালয় নির্বাচন করুন। আবশ্যিক ফি পরিশোধ করে আপনার ভর্তি নিশ্চিত করুন।</p>
+<p><strong>ছাত্র ভিসা জন্য আবেদন করুন:</strong> একবার ভর্তি হলে, সংশ্লিষ্ট দেশের রাষ্ট্রীয় দূতাবাস বা কনসুলেট থেকে ছাত্র ভিসা জন্য আবেদন করুন। ভর্তি পত্র, আর্থিক বিবৃতি, এবং পাসপোর্ট সহ সব প্রয়োজনীয় নথি রয়েছে তা নিশ্চিত করুন।</p>
+<p><strong>ভ্রমণ এবং বসবাস:</strong> ভ্রমণ এবং আপনার বাসস্থানের ব্যবস্থা পূর্বসূরি করুন। নতুন পরিবেশ সম্পর্কিত সাংস্কৃতিক জ্ঞান, বাসাবাড়ির অবস্থা এবং মৌলিক স্থানীয় ভাষা জেনে নিজেকে প্রস্তুত করুন।</p>
+<p><strong>MBBS কোর্স শুরু করুন:</strong> বিশ্ববিদ্যালয়ের শিক্ষা সংক্রান্ত ক্যালেন্ডারের অনুযায়ী আপনার MBBS প্রোগ্রাম শুরু করুন এবং অরিয়েন্টেশন সেশনে অংশগ্রহণ করুন।</p>
+<p><strong>নির্দেশনা মেনে চলা:</strong> অতিথি দেশের এবং বিশ্ববিদ্যালয়ের নির্দেশনা অনুসরণ করুন। ভাল শিক্ষাগত অবস্থা বজায় রাখুন, উপস্থিতি রক্ষা করুন, এবং ভিসা প্রয়োজনীয়তা পূরণ করুন।</p>
+<p><strong>অর্থনৈতিক পরিকল্পনা:</strong> অনুমানিত ছাত্রশুল্ক, বাসতির ব্যয়, স্বাস্থ্য বীমা, এবং অন্যান্য বিবিধ খরচ সহ একটি আর্থিক পরিকল্পনা প্রস্তুত করুন।</p>
+<p><strong>বাড়িতে যোগাযোগ রক্ষা করুন:</strong> নতুন পরিবেশে অভ্যন্তরীণ হওয়ার সময়ে পরিবার ও বন্ধুদের সাথে যোগাযোগ বজায় রাখুন। প্রয়োজনে বিশ্ববিদ্যালয় বা স্থানীয় সম্প্রদায়ের সেবা সমূহ ব্যবহার করুন।</p>
+<p>এই প্রক্রিয়া সহজভাবে চলার জন্য বিস্তারিত গবেষণা করা, ভর্তি প্রয়োজনীয়তা সাপেক্ষে আধুনিক জ্ঞান থাকা, এবং শিক্ষাগত পরামর্শকারী বা পেশাদারদের নির্দেশনা গ্রহণ করা অত্যন্ত গুরুত্বপূর্ণ।</p>
